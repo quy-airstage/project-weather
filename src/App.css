@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+.main {
+    background-color: antiquewhite;
+    display: flex;
+}
